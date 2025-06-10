@@ -1,9 +1,10 @@
-## Hi there 👋
-## Glad To See You Here
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+## Glad To See You Here!
 
 Currently pursuing a Bachelor's degree in Computer Science, I specialize in full-stack development with hands-on experience in building responsive, user-friendly applications. On the frontend, I work with React, while my backend expertise includes Node.js and .NET. I also have a strong grasp of SQL and relational database design, enabling me to develop efficient, scalable, and data-driven systems.
 
-From the beginning of my coding journey, I’ve been passionate about creating software that not only functions effectively but also enhances the way people interact with technology. I enjoy exploring new tools and frameworks, tackling real-world problems, and writing clean, maintainable code. Whether working independently or in a team, I approach each project with a collaborative spirit, attention to detail, and a commitment to delivering high-quality results.
+From the beginning of my coding journey, I’ve been passionate about creating software that not only functions effectively but also enhances the way people interact with technology. I enjoy exploring new tools and frameworks, tackling real-world problems, and writing clean, maintainable code. I approach each project with a collaborative spirit, attention to detail, and a commitment to delivering high-quality results.
 
 ## 👨‍💻 About Me
 <img align="right" src="programming-unscreen.gif" width="550" height="350" alt="Programming animation" />
